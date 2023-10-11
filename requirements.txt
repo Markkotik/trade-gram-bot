@@ -1,0 +1,2 @@
+python-decouple~=3.8
+Telethon~=1.30.3
